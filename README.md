@@ -13,7 +13,7 @@ An AI-powered agent that reads your Gmail inbox, classifies every email (categor
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Complete-success?style=for-the-badge)]()
 
-[🎥 Demo Video](https://colab.research.google.com/drive/1BaZlow1SPpu4tUo1LoeL7LycyDhh5tR8?usp=sharing) · [🐛 Report Bug](https://github.com/nitishchauhan002/AI-Email-Automation-System/issues) · [💡 Request Feature](https://github.com/nitishchauhan002/AI-Email-Automation-System/issues)
+[🎥 Demo Video](https://drive.google.com/file/d/1L6u5CmbjgdfbkTn_KfT-IdocN0LNXnSJ/view?usp=sharing) · [🐛 Report Bug](https://github.com/nitishchauhan002/AI-Email-Automation-System/issues) · [💡 Request Feature](https://github.com/nitishchauhan002/AI-Email-Automation-System/issues)
 
 </div>
 
@@ -138,7 +138,7 @@ Opens at **http://localhost:8501**
 
 ## 🎥 Video Walkthrough
 
-📺 **[Watch the demo video here](https://colab.research.google.com/drive/1BaZlow1SPpu4tUo1LoeL7LycyDhh5tR8?usp=sharing)**
+📺 **[Watch the demo video here](https://drive.google.com/file/d/1L6u5CmbjgdfbkTn_KfT-IdocN0LNXnSJ/view?usp=sharing)**
 
 Covers: the problem selected, approach, live demo, tools used, what I learned, and future improvements.
 
